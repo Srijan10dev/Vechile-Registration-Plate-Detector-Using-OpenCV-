@@ -1,0 +1,7 @@
+                                                                Requirments and precaution for an error-free experience 
+Download the opencv framework in the terminal using :   pip install opencv-python
+The haarcascade must be downlaoded in the same exceuting folders for prevents any errors
+If Someone trying with the system images, change the directory in the code (line no 07) cv2.imread('Filename')
+Also, Insert the images in the same folder
+Size, images, haarcascade , color and frames are default to be desinged. You Can change upto your needs and wants
+                                                                      Happy Coding And Enjoy Developing 
